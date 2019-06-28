@@ -1,0 +1,854 @@
+[ 05:41:53.897 ] Starting Scene In Custom Mod
+[ 05:41:59.527 ]  Choose : x -> 5 y -> 0
+[ 05:42:00.304 ]  Choose : x -> 3 y -> 3
+[ 05:42:01.378 ]  Choose : x -> 6 y -> 3
+[ 05:42:02.269 ]  Choose : x -> 8 y -> 6
+[ 05:42:02.979 ]  Choose : x -> 3 y -> 6
+[ 05:42:02.981 ]  Choose : x -> 3 y -> 7
+[ 05:42:03.916 ]  Choose : x -> 1 y -> 3
+[ 05:42:03.917 ]  Choose : x -> 1 y -> 4
+[ 05:42:12.808 ] Choose x -> 1 y -> 1
+
+[ 05:42:12.809 ] Choose x -> 2 y -> 2
+
+[ 05:42:19.369 ]  Choose : x -> 5 y -> 7
+[ 05:42:19.370 ]  Choose : x -> 5 y -> 8
+[ 05:42:19.371 ]  Choose : x -> 5 y -> 9
+[ 05:42:22.186 ] Choose x -> 7 y -> 7
+
+[ 05:42:22.188 ] Choose x -> 8 y -> 8
+
+[ 05:42:22.190 ] Choose x -> 9 y -> 9
+
+[ 05:42:24.507 ]  Choose : x -> 0 y -> 6
+[ 05:42:24.508 ]  Choose : x -> 0 y -> 7
+[ 05:42:24.508 ]  Choose : x -> 0 y -> 8
+[ 05:42:24.509 ]  Choose : x -> 0 y -> 9
+[ 05:42:24.510 ] Choose x -> 6 y -> 6
+
+[ 05:42:24.511 ] Choose x -> 7 y -> 7
+
+[ 05:42:24.512 ] Choose x -> 8 y -> 8
+
+[ 05:42:24.512 ] Choose x -> 9 y -> 9
+
+[ 05:42:24.513 ]  Choose : x -> 0 y -> 0
+[ 05:42:24.514 ]  Choose : x -> 0 y -> 1
+[ 05:42:24.514 ]  Choose : x -> 0 y -> 2
+[ 05:42:24.515 ]  Choose : x -> 6 y -> 2
+[ 05:42:24.516 ]  Choose : x -> 6 y -> 3
+[ 05:42:24.517 ]  Choose : x -> 6 y -> 4
+[ 05:42:24.518 ]  Choose : x -> 4 y -> 7
+[ 05:42:24.519 ]  Choose : x -> 4 y -> 8
+[ 05:42:24.520 ] Choose x -> 7 y -> 7
+
+[ 05:42:24.522 ] Choose x -> 8 y -> 8
+
+[ 05:42:24.523 ]  Choose : x -> 2 y -> 8
+[ 05:42:24.524 ]  Choose : x -> 2 y -> 9
+[ 05:42:24.525 ] Choose x -> 9 y -> 9
+
+[ 05:42:24.527 ] Choose x -> 2 y -> 2
+
+[ 05:42:24.528 ] Choose x -> 1 y -> 1
+
+[ 05:42:24.529 ]  Choose : x -> 2 y -> 2
+[ 05:42:53.072 ]    Shooting to : x -> 4 y -> 7
+[ 05:42:53.811 ]    Shooting to : x -> 8 y -> 3
+[ 05:42:53.813 ]    Shooting to : x -> 0 y -> 7
+[ 05:42:53.815 ]    Shooting to : x -> 4 y -> 6
+[ 05:42:54.748 ]    Shooting to : x -> 5 y -> 4
+[ 05:42:54.756 ]    Shooting to : x -> 0 y -> 8
+[ 05:42:54.758 ]    Shooting to : x -> 8 y -> 9
+[ 05:42:56.688 ] Closing Custom Mode
+[ 05:42:56.690 ] ----------------------
+[ 05:45:26.696 ] Starting Scene In Custom Mod
+[ 05:45:28.185 ]  Choose : x -> 0 y -> 5
+[ 05:45:28.685 ]  Choose : x -> 4 y -> 4
+[ 05:45:29.202 ]  Choose : x -> 7 y -> 4
+[ 05:45:29.691 ]  Choose : x -> 7 y -> 7
+[ 05:45:30.212 ]  Choose : x -> 3 y -> 6
+[ 05:45:30.214 ]  Choose : x -> 3 y -> 7
+[ 05:47:20.932 ] Closing Custom Mode
+[ 05:47:20.934 ] ----------------------
+[ 05:47:23.425 ] Starting Scene In Custom Mod
+[ 05:47:25.051 ]  Choose : x -> 2 y -> 4
+[ 05:47:36.743 ]  Choose : x -> 5 y -> 4
+[ 05:47:40.125 ]  Choose : x -> 8 y -> 3
+[ 05:47:41.058 ]  Choose : x -> 5 y -> 1
+[ 05:47:53.959 ]  Choose : x -> 3 y -> 6
+[ 05:47:53.960 ]  Choose : x -> 3 y -> 7
+[ 05:48:27.499 ]  Choose : x -> 7 y -> 5
+[ 05:48:27.500 ]  Choose : x -> 7 y -> 6
+[ 05:48:28.669 ]  Choose : x -> 9 y -> 7
+[ 05:48:28.670 ]  Choose : x -> 9 y -> 8
+[ 05:48:29.888 ]  Choose : x -> 0 y -> 4
+[ 05:48:29.890 ]  Choose : x -> 0 y -> 5
+[ 05:48:29.891 ]  Choose : x -> 0 y -> 6
+[ 05:48:33.820 ] Choose x -> 0 y -> 0
+
+[ 05:48:33.821 ] Choose x -> 1 y -> 1
+
+[ 05:48:33.822 ] Choose x -> 2 y -> 2
+
+[ 05:48:36.920 ] Choose x -> 1 y -> 1
+
+[ 05:48:36.922 ] Choose x -> 2 y -> 2
+
+[ 05:48:36.923 ] Choose x -> 3 y -> 3
+
+[ 05:48:36.924 ] Choose x -> 4 y -> 4
+
+[ 05:48:36.927 ]  Choose : x -> 9 y -> 5
+[ 05:48:36.928 ]  Choose : x -> 9 y -> 6
+[ 05:48:36.930 ]  Choose : x -> 9 y -> 7
+[ 05:48:36.931 ]  Choose : x -> 9 y -> 8
+[ 05:48:36.933 ] Choose x -> 5 y -> 5
+
+[ 05:48:36.934 ] Choose x -> 6 y -> 6
+
+[ 05:48:36.935 ] Choose x -> 7 y -> 7
+
+[ 05:48:36.937 ]  Choose : x -> 2 y -> 7
+[ 05:48:36.938 ]  Choose : x -> 2 y -> 8
+[ 05:48:36.940 ]  Choose : x -> 2 y -> 9
+[ 05:48:36.941 ] Choose x -> 5 y -> 5
+
+[ 05:48:36.943 ] Choose x -> 6 y -> 6
+
+[ 05:48:36.944 ] Choose x -> 2 y -> 2
+
+[ 05:48:36.945 ] Choose x -> 3 y -> 3
+
+[ 05:48:36.947 ]  Choose : x -> 5 y -> 8
+[ 05:48:36.948 ]  Choose : x -> 5 y -> 9
+[ 05:48:36.950 ] Choose x -> 6 y -> 6
+
+[ 05:48:36.952 ] Choose x -> 9 y -> 9
+
+[ 05:48:36.953 ] Choose x -> 7 y -> 7
+
+[ 05:48:36.955 ] Choose x -> 0 y -> 0
+
+[ 05:48:47.814 ]    Shooting to : x -> 6 y -> 7
+[ 05:48:47.815 ]    Shooting to : x -> 0 y -> 4
+[ 05:48:47.817 ]    Shooting to : x -> 0 y -> 9
+[ 05:48:52.531 ]    Shooting to : x -> 2 y -> 5
+[ 05:48:52.532 ]    Shooting to : x -> 1 y -> 6
+[ 05:48:53.347 ]    Shooting to : x -> 5 y -> 2
+[ 05:48:53.348 ]    Shooting to : x -> 1 y -> 1
+[ 05:48:54.054 ]    Shooting to : x -> 8 y -> 3
+[ 05:48:54.055 ]    Shooting to : x -> 7 y -> 9
+[ 05:48:54.895 ]    Shooting to : x -> 8 y -> 6
+[ 05:48:54.897 ]    Shooting to : x -> 5 y -> 5
+[ 05:48:55.952 ]    Shooting to : x -> 0 y -> 0
+[ 05:48:55.953 ]    Shooting to : x -> 5 y -> 8
+[ 05:48:56.620 ]    Shooting to : x -> 0 y -> 3
+[ 05:48:56.621 ]    Shooting to : x -> 5 y -> 4
+[ 05:48:56.623 ]    Shooting to : x -> 4 y -> 3
+[ 05:48:57.346 ]    Shooting to : x -> 2 y -> 1
+[ 05:48:57.346 ]    Shooting to : x -> 0 y -> 3
+[ 05:48:57.942 ]    Shooting to : x -> 8 y -> 1
+[ 05:48:57.944 ]    Shooting to : x -> 1 y -> 5
+[ 05:48:58.811 ]    Shooting to : x -> 6 y -> 5
+[ 05:48:59.744 ]    Shooting to : x -> 5 y -> 5
+[ 05:49:00.576 ]    Shooting to : x -> 4 y -> 5
+[ 05:49:00.578 ]    Shooting to : x -> 7 y -> 3
+[ 05:49:01.791 ]    Shooting to : x -> 7 y -> 5
+[ 05:49:01.792 ]    Shooting to : x -> 7 y -> 8
+[ 05:49:03.217 ]    Shooting to : x -> 0 y -> 9
+[ 05:49:03.218 ]    Shooting to : x -> 8 y -> 7
+[ 05:49:06.348 ]    Shooting to : x -> 4 y -> 9
+[ 05:49:06.350 ]    Shooting to : x -> 4 y -> 4
+[ 05:49:07.129 ]    Shooting to : x -> 2 y -> 9
+[ 05:49:07.918 ]    Shooting to : x -> 2 y -> 8
+[ 05:49:08.612 ]    Shooting to : x -> 2 y -> 7
+[ 05:49:09.253 ]    Shooting to : x -> 2 y -> 6
+[ 05:49:09.255 ]    Shooting to : x -> 8 y -> 8
+[ 05:49:10.178 ]    Shooting to : x -> 2 y -> 3
+[ 05:49:10.180 ]    Shooting to : x -> 1 y -> 9
+[ 05:49:10.181 ]    Shooting to : x -> 9 y -> 7
+[ 05:49:10.182 ]    Shooting to : x -> 4 y -> 9
+[ 05:49:10.184 ]    Shooting to : x -> 0 y -> 8
+[ 05:49:10.856 ]    Shooting to : x -> 6 y -> 3
+[ 05:49:12.177 ]    Shooting to : x -> 4 y -> 3
+[ 05:49:12.179 ]    Shooting to : x -> 6 y -> 5
+[ 05:49:12.671 ]    Shooting to : x -> 5 y -> 3
+[ 05:49:12.672 ]    Shooting to : x -> 9 y -> 2
+[ 05:49:13.386 ]    Shooting to : x -> 7 y -> 3
+[ 05:49:13.387 ]    Shooting to : x -> 4 y -> 8
+[ 05:49:13.914 ]    Shooting to : x -> 6 y -> 2
+[ 05:49:13.914 ]    Shooting to : x -> 3 y -> 2
+[ 05:49:15.545 ]    Shooting to : x -> 9 y -> 5
+[ 05:49:16.476 ]    Shooting to : x -> 9 y -> 4
+[ 05:49:16.477 ]    Shooting to : x -> 1 y -> 2
+[ 05:49:17.158 ]    Shooting to : x -> 9 y -> 2
+[ 05:49:17.160 ]    Shooting to : x -> 9 y -> 1
+[ 05:49:18.726 ] Closing Custom Mode
+[ 05:49:18.727 ] ----------------------
+[ 07:03:27.322 ] Starting Scene In Custom Mod
+[ 07:03:29.324 ]  Choose : x -> 0 y -> 0
+[ 07:03:30.845 ]  Choose : x -> 2 y -> 0
+[ 07:03:32.037 ]  Choose : x -> 4 y -> 0
+[ 07:03:32.891 ]  Choose : x -> 6 y -> 0
+[ 07:03:33.634 ]  Choose : x -> 8 y -> 0
+[ 07:03:33.635 ]  Choose : x -> 8 y -> 1
+[ 07:03:35.379 ]  Choose : x -> 0 y -> 2
+[ 07:03:35.381 ]  Choose : x -> 0 y -> 3
+[ 07:03:36.206 ]  Choose : x -> 2 y -> 2
+[ 07:03:36.208 ]  Choose : x -> 2 y -> 3
+[ 07:03:37.092 ]  Choose : x -> 4 y -> 2
+[ 07:03:37.094 ]  Choose : x -> 4 y -> 3
+[ 07:03:37.097 ]  Choose : x -> 4 y -> 4
+[ 07:03:37.982 ]  Choose : x -> 6 y -> 2
+[ 07:03:37.984 ]  Choose : x -> 6 y -> 3
+[ 07:03:37.986 ]  Choose : x -> 6 y -> 4
+[ 07:03:39.487 ]  Choose : x -> 8 y -> 3
+[ 07:03:39.489 ]  Choose : x -> 8 y -> 4
+[ 07:03:39.490 ]  Choose : x -> 8 y -> 5
+[ 07:03:39.491 ]  Choose : x -> 8 y -> 6
+[ 07:03:39.493 ] Choose x -> 4 y -> 4
+
+[ 07:03:39.495 ] Choose x -> 5 y -> 5
+
+[ 07:03:39.496 ] Choose x -> 6 y -> 6
+
+[ 07:03:39.498 ] Choose x -> 7 y -> 7
+
+[ 07:03:39.499 ] Choose x -> 7 y -> 7
+
+[ 07:03:39.500 ] Choose x -> 8 y -> 8
+
+[ 07:03:39.500 ] Choose x -> 9 y -> 9
+
+[ 07:03:39.501 ]  Choose : x -> 7 y -> 0
+[ 07:03:39.502 ]  Choose : x -> 7 y -> 1
+[ 07:03:39.502 ]  Choose : x -> 7 y -> 2
+[ 07:03:39.502 ]  Choose : x -> 0 y -> 1
+[ 07:03:39.503 ]  Choose : x -> 0 y -> 2
+[ 07:03:39.503 ] Choose x -> 2 y -> 2
+
+[ 07:03:39.504 ] Choose x -> 3 y -> 3
+
+[ 07:03:39.504 ] Choose x -> 8 y -> 8
+
+[ 07:03:39.505 ] Choose x -> 9 y -> 9
+
+[ 07:03:39.505 ]  Choose : x -> 9 y -> 4
+[ 07:03:39.506 ]  Choose : x -> 5 y -> 9
+[ 07:03:39.506 ]  Choose : x -> 2 y -> 6
+[ 07:03:39.507 ] Choose x -> 5 y -> 5
+
+[ 07:03:42.316 ]    Shooting to : x -> 3 y -> 5
+[ 07:03:42.317 ]    Shooting to : x -> 1 y -> 2
+[ 07:03:43.590 ]    Shooting to : x -> 4 y -> 5
+[ 07:03:43.591 ]    Shooting to : x -> 4 y -> 1
+[ 07:03:44.540 ]    Shooting to : x -> 5 y -> 5
+[ 07:03:44.551 ]    Shooting to : x -> 1 y -> 9
+[ 07:03:45.287 ]    Shooting to : x -> 6 y -> 5
+[ 07:03:45.288 ]    Shooting to : x -> 1 y -> 0
+[ 07:03:45.838 ]    Shooting to : x -> 7 y -> 5
+[ 07:03:45.838 ]    Shooting to : x -> 0 y -> 6
+[ 07:03:46.526 ]    Shooting to : x -> 8 y -> 5
+[ 07:03:46.528 ]    Shooting to : x -> 5 y -> 1
+[ 07:03:47.141 ]    Shooting to : x -> 9 y -> 5
+[ 07:03:47.143 ]    Shooting to : x -> 4 y -> 9
+[ 07:03:48.102 ]    Shooting to : x -> 2 y -> 5
+[ 07:03:48.104 ]    Shooting to : x -> 4 y -> 6
+[ 07:03:48.782 ]    Shooting to : x -> 1 y -> 5
+[ 07:03:48.783 ]    Shooting to : x -> 2 y -> 5
+[ 07:03:49.386 ]    Shooting to : x -> 0 y -> 5
+[ 07:03:49.387 ]    Shooting to : x -> 2 y -> 9
+[ 07:03:51.385 ]    Shooting to : x -> 0 y -> 3
+[ 07:03:51.387 ]    Shooting to : x -> 6 y -> 1
+[ 07:03:51.989 ]    Shooting to : x -> 1 y -> 3
+[ 07:03:51.990 ]    Shooting to : x -> 7 y -> 5
+[ 07:03:52.883 ]    Shooting to : x -> 2 y -> 3
+[ 07:03:52.884 ]    Shooting to : x -> 3 y -> 9
+[ 07:03:53.639 ]    Shooting to : x -> 3 y -> 3
+[ 07:03:53.640 ]    Shooting to : x -> 9 y -> 8
+[ 07:03:54.535 ]    Shooting to : x -> 4 y -> 3
+[ 07:03:54.536 ]    Shooting to : x -> 8 y -> 3
+[ 07:03:54.538 ]    Shooting to : x -> 6 y -> 6
+[ 07:03:55.277 ]    Shooting to : x -> 5 y -> 3
+[ 07:03:55.279 ]    Shooting to : x -> 8 y -> 8
+[ 07:03:55.937 ]    Shooting to : x -> 7 y -> 3
+[ 07:03:55.938 ]    Shooting to : x -> 0 y -> 2
+[ 07:03:55.938 ]    Shooting to : x -> 5 y -> 2
+[ 07:03:56.631 ]    Shooting to : x -> 6 y -> 3
+[ 07:03:56.632 ]    Shooting to : x -> 7 y -> 9
+[ 07:03:57.490 ]    Shooting to : x -> 8 y -> 3
+[ 07:03:57.491 ]    Shooting to : x -> 7 y -> 4
+[ 07:03:58.480 ]    Shooting to : x -> 9 y -> 3
+[ 07:03:58.482 ]    Shooting to : x -> 0 y -> 1
+[ 07:04:01.037 ]    Shooting to : x -> 0 y -> 7
+[ 07:04:01.038 ]    Shooting to : x -> 8 y -> 5
+[ 07:04:01.040 ]    Shooting to : x -> 7 y -> 6
+[ 07:04:01.783 ]    Shooting to : x -> 1 y -> 7
+[ 07:04:01.784 ]    Shooting to : x -> 0 y -> 9
+[ 07:04:02.778 ]    Shooting to : x -> 2 y -> 7
+[ 07:04:02.779 ]    Shooting to : x -> 0 y -> 3
+[ 07:04:02.781 ]    Shooting to : x -> 9 y -> 2
+[ 07:04:03.481 ]    Shooting to : x -> 3 y -> 7
+[ 07:04:03.482 ]    Shooting to : x -> 9 y -> 7
+[ 07:04:04.101 ]    Shooting to : x -> 4 y -> 7
+[ 07:04:04.102 ]    Shooting to : x -> 6 y -> 4
+[ 07:04:04.104 ]    Shooting to : x -> 2 y -> 8
+[ 07:04:04.741 ]    Shooting to : x -> 5 y -> 7
+[ 07:04:04.742 ]    Shooting to : x -> 6 y -> 5
+[ 07:04:05.396 ]    Shooting to : x -> 6 y -> 7
+[ 07:04:05.398 ]    Shooting to : x -> 0 y -> 5
+[ 07:04:06.124 ]    Shooting to : x -> 7 y -> 7
+[ 07:04:06.124 ]    Shooting to : x -> 9 y -> 0
+[ 07:04:06.699 ]    Shooting to : x -> 8 y -> 7
+[ 07:04:06.700 ]    Shooting to : x -> 1 y -> 8
+[ 07:04:07.900 ]    Shooting to : x -> 9 y -> 7
+[ 07:04:07.901 ]    Shooting to : x -> 2 y -> 6
+[ 07:04:09.219 ]    Shooting to : x -> 0 y -> 9
+[ 07:04:09.221 ]    Shooting to : x -> 2 y -> 0
+[ 07:04:09.222 ]    Shooting to : x -> 7 y -> 8
+[ 07:04:09.838 ]    Shooting to : x -> 1 y -> 9
+[ 07:04:09.840 ]    Shooting to : x -> 7 y -> 7
+[ 07:04:10.508 ]    Shooting to : x -> 2 y -> 9
+[ 07:04:10.510 ]    Shooting to : x -> 9 y -> 3
+[ 07:04:11.219 ]    Shooting to : x -> 3 y -> 9
+[ 07:04:11.221 ]    Shooting to : x -> 2 y -> 4
+[ 07:04:11.887 ]    Shooting to : x -> 4 y -> 9
+[ 07:04:11.888 ]    Shooting to : x -> 0 y -> 4
+[ 07:04:12.539 ]    Shooting to : x -> 5 y -> 9
+[ 07:04:13.820 ]    Shooting to : x -> 6 y -> 9
+[ 07:04:13.821 ]    Shooting to : x -> 5 y -> 7
+[ 07:04:15.324 ]    Shooting to : x -> 5 y -> 8
+[ 07:04:15.325 ]    Shooting to : x -> 9 y -> 6
+[ 07:04:16.325 ]    Shooting to : x -> 7 y -> 9
+[ 07:04:16.326 ]    Shooting to : x -> 6 y -> 9
+[ 07:04:16.910 ]    Shooting to : x -> 9 y -> 9
+[ 07:04:16.911 ]    Shooting to : x -> 9 y -> 4
+[ 07:04:17.558 ]    Shooting to : x -> 8 y -> 9
+[ 07:04:17.558 ]    Shooting to : x -> 7 y -> 3
+[ 07:04:18.927 ]    Shooting to : x -> 0 y -> 1
+[ 07:04:19.578 ]    Shooting to : x -> 1 y -> 1
+[ 07:04:19.579 ]    Shooting to : x -> 6 y -> 3
+[ 07:04:19.581 ]    Shooting to : x -> 3 y -> 2
+[ 07:04:20.594 ]    Shooting to : x -> 2 y -> 1
+[ 07:04:20.595 ]    Shooting to : x -> 5 y -> 9
+[ 07:04:21.262 ]    Shooting to : x -> 3 y -> 1
+[ 07:04:21.263 ]    Shooting to : x -> 6 y -> 2
+[ 07:04:21.265 ]    Shooting to : x -> 1 y -> 5
+[ 07:04:21.925 ]    Shooting to : x -> 4 y -> 1
+[ 07:04:21.926 ]    Shooting to : x -> 4 y -> 4
+[ 07:04:21.927 ]    Shooting to : x -> 3 y -> 7
+[ 07:04:22.607 ]    Shooting to : x -> 5 y -> 1
+[ 07:04:22.608 ]    Shooting to : x -> 2 y -> 3
+[ 07:04:22.609 ]    Shooting to : x -> 3 y -> 3
+[ 07:04:23.363 ]    Shooting to : x -> 6 y -> 1
+[ 07:04:23.365 ]    Shooting to : x -> 0 y -> 7
+[ 07:04:23.947 ]    Shooting to : x -> 7 y -> 1
+[ 07:04:24.810 ]    Shooting to : x -> 8 y -> 1
+[ 07:04:24.811 ]    Shooting to : x -> 5 y -> 8
+[ 07:04:25.486 ]    Shooting to : x -> 9 y -> 1
+[ 07:04:25.487 ]    Shooting to : x -> 0 y -> 0
+[ 07:04:25.487 ]    Shooting to : x -> 8 y -> 4
+[ 07:04:25.488 ]    Shooting to : x -> 5 y -> 5
+[ 07:04:26.110 ]    Shooting to : x -> 7 y -> 0
+[ 07:04:26.790 ]    Shooting to : x -> 7 y -> 2
+[ 07:04:28.213 ]    Shooting to : x -> 0 y -> 0
+[ 07:04:28.213 ]    Shooting to : x -> 8 y -> 0
+[ 07:04:28.214 ]    Shooting to : x -> 4 y -> 8
+[ 07:04:29.001 ]    Shooting to : x -> 0 y -> 2
+[ 07:04:32.158 ]    Shooting to : x -> 3 y -> 0
+[ 07:04:32.159 ]    Shooting to : x -> 4 y -> 3
+[ 07:04:32.161 ]    Shooting to : x -> 2 y -> 2
+[ 07:04:32.162 ]    Shooting to : x -> 8 y -> 1
+[ 07:04:32.163 ]    Shooting to : x -> 1 y -> 1
+[ 07:04:33.916 ]    Shooting to : x -> 2 y -> 0
+[ 07:04:33.917 ]    Shooting to : x -> 9 y -> 5
+[ 07:04:35.127 ]    Shooting to : x -> 5 y -> 0
+[ 07:04:35.128 ]    Shooting to : x -> 5 y -> 6
+[ 07:04:37.098 ]    Shooting to : x -> 9 y -> 0
+[ 07:04:37.099 ]    Shooting to : x -> 4 y -> 5
+[ 07:04:38.138 ]    Shooting to : x -> 9 y -> 2
+[ 07:04:38.139 ]    Shooting to : x -> 0 y -> 8
+[ 07:04:39.395 ]    Shooting to : x -> 5 y -> 2
+[ 07:04:39.396 ]    Shooting to : x -> 7 y -> 2
+[ 07:04:40.195 ]    Shooting to : x -> 4 y -> 2
+[ 07:04:40.196 ]    Shooting to : x -> 8 y -> 9
+[ 07:04:40.955 ]    Shooting to : x -> 3 y -> 2
+[ 07:04:41.644 ]    Shooting to : x -> 2 y -> 2
+[ 07:04:43.320 ]    Shooting to : x -> 1 y -> 4
+[ 07:04:43.320 ]    Shooting to : x -> 5 y -> 0
+[ 07:04:44.783 ]    Shooting to : x -> 0 y -> 4
+[ 07:04:44.784 ]    Shooting to : x -> 3 y -> 8
+[ 07:04:45.519 ]    Shooting to : x -> 2 y -> 4
+[ 07:04:45.519 ]    Shooting to : x -> 3 y -> 6
+[ 07:04:46.561 ]    Shooting to : x -> 3 y -> 4
+[ 07:04:46.563 ]    Shooting to : x -> 3 y -> 5
+[ 07:04:47.362 ]    Shooting to : x -> 4 y -> 4
+[ 07:04:48.055 ]    Shooting to : x -> 5 y -> 4
+[ 07:04:48.823 ]    Shooting to : x -> 6 y -> 4
+[ 07:04:49.486 ]    Shooting to : x -> 7 y -> 4
+[ 07:04:50.293 ]    Shooting to : x -> 8 y -> 4
+[ 07:04:50.295 ]    Shooting to : x -> 8 y -> 6
+[ 07:04:50.296 ]    Shooting to : x -> 7 y -> 1
+[ 07:04:52.207 ]    Shooting to : x -> 9 y -> 4
+[ 07:04:54.712 ]    Shooting to : x -> 9 y -> 6
+[ 07:04:55.433 ]    Shooting to : x -> 8 y -> 6
+[ 07:04:56.022 ]    Shooting to : x -> 7 y -> 6
+[ 07:04:56.023 ]    Shooting to : x -> 6 y -> 8
+[ 07:04:57.907 ]    Shooting to : x -> 6 y -> 6
+[ 07:04:57.908 ]    Shooting to : x -> 6 y -> 0
+[ 07:04:57.909 ]    Shooting to : x -> 5 y -> 4
+[ 07:04:58.541 ]    Shooting to : x -> 5 y -> 6
+[ 07:04:59.536 ]    Shooting to : x -> 4 y -> 6
+[ 07:04:59.538 ]    Shooting to : x -> 1 y -> 6
+[ 07:05:02.033 ]    Shooting to : x -> 3 y -> 6
+[ 07:05:02.034 ]    Shooting to : x -> 4 y -> 7
+[ 07:05:02.694 ]    Shooting to : x -> 2 y -> 6
+[ 07:05:03.543 ]    Shooting to : x -> 1 y -> 6
+[ 07:05:03.544 ]    Shooting to : x -> 1 y -> 3
+[ 07:05:04.344 ]    Shooting to : x -> 0 y -> 6
+[ 07:05:04.345 ]    Shooting to : x -> 1 y -> 7
+[ 07:05:05.715 ]    Shooting to : x -> 0 y -> 8
+[ 07:05:05.716 ]    Shooting to : x -> 2 y -> 1
+[ 07:05:06.391 ]    Shooting to : x -> 1 y -> 8
+[ 07:05:06.392 ]    Shooting to : x -> 6 y -> 7
+[ 07:05:07.050 ]    Shooting to : x -> 2 y -> 8
+[ 07:05:07.052 ]    Shooting to : x -> 4 y -> 0
+[ 07:05:07.053 ]    Shooting to : x -> 1 y -> 4
+[ 07:05:07.751 ]    Shooting to : x -> 3 y -> 8
+[ 07:05:07.752 ]    Shooting to : x -> 3 y -> 0
+[ 07:05:08.413 ]    Shooting to : x -> 4 y -> 8
+[ 07:05:08.414 ]    Shooting to : x -> 3 y -> 1
+[ 07:05:09.271 ]    Shooting to : x -> 6 y -> 8
+[ 07:05:09.273 ]    Shooting to : x -> 9 y -> 1
+[ 07:05:09.947 ]    Shooting to : x -> 7 y -> 8
+[ 07:05:10.640 ]    Shooting to : x -> 8 y -> 8
+[ 07:05:11.663 ]    Shooting to : x -> 9 y -> 8
+[ 07:05:11.664 ]  You Win 
+[ 07:05:18.972 ]    Shooting to : x -> 8 y -> 2
+[ 07:05:18.974 ]  You Win 
+[ 07:05:18.975 ]    Shooting to : x -> 3 y -> 4
+[ 07:05:24.127 ]    Shooting to : x -> 8 y -> 0
+[ 07:05:24.128 ]  You Win 
+[ 07:05:24.129 ]    Shooting to : x -> 8 y -> 7
+[ 07:05:25.782 ]    Shooting to : x -> 6 y -> 2
+[ 07:05:25.783 ]  You Win 
+[ 07:05:25.784 ]    Shooting to : x -> 7 y -> 0
+[ 07:05:27.106 ]    Shooting to : x -> 6 y -> 0
+[ 07:05:27.108 ]  You Win 
+[ 07:05:27.109 ]    Shooting to : x -> 4 y -> 2
+[ 07:05:27.111 ]  You Lose 
+[ 07:05:27.111 ]    Shooting to : x -> 5 y -> 3
+[ 07:05:27.112 ]  You Lose 
+[ 07:05:27.833 ]    Shooting to : x -> 4 y -> 0
+[ 07:05:27.834 ]  You Win 
+[ 07:05:27.835 ]    Shooting to : x -> 8 y -> 2
+[ 07:05:27.837 ]  You Lose 
+[ 07:05:28.799 ]    Shooting to : x -> 1 y -> 2
+[ 07:05:28.801 ]  You Win 
+[ 07:05:28.802 ]    Shooting to : x -> 9 y -> 9
+[ 07:05:28.803 ]  You Lose 
+[ 07:05:29.817 ]    Shooting to : x -> 1 y -> 0
+[ 07:05:29.818 ]  You Win 
+[ 07:05:29.820 ]    Shooting to : x -> 2 y -> 7
+[ 07:05:29.821 ]  You Lose 
+[ 07:05:34.132 ] Closing Custom Mode
+[ 07:05:34.132 ] ----------------------
+[ 07:06:20.876 ] Starting Scene In Custom Mod
+[ 07:06:22.382 ]  Choose : x -> 1 y -> 2
+[ 07:06:23.244 ]  Choose : x -> 0 y -> 0
+[ 07:06:24.231 ]  Choose : x -> 2 y -> 0
+[ 07:06:25.225 ]  Choose : x -> 4 y -> 0
+[ 07:06:26.308 ]  Choose : x -> 6 y -> 0
+[ 07:06:26.310 ]  Choose : x -> 6 y -> 1
+[ 07:06:27.150 ]  Choose : x -> 8 y -> 0
+[ 07:06:27.151 ]  Choose : x -> 8 y -> 1
+[ 07:06:29.796 ]  Choose : x -> 0 y -> 4
+[ 07:06:29.798 ]  Choose : x -> 0 y -> 5
+[ 07:06:30.649 ]  Choose : x -> 2 y -> 4
+[ 07:06:30.650 ]  Choose : x -> 2 y -> 5
+[ 07:06:30.652 ]  Choose : x -> 2 y -> 6
+[ 07:06:31.437 ]  Choose : x -> 4 y -> 4
+[ 07:06:31.439 ]  Choose : x -> 4 y -> 5
+[ 07:06:31.440 ]  Choose : x -> 4 y -> 6
+[ 07:06:32.193 ]  Choose : x -> 6 y -> 4
+[ 07:06:32.195 ]  Choose : x -> 6 y -> 5
+[ 07:06:32.196 ]  Choose : x -> 6 y -> 6
+[ 07:06:32.198 ]  Choose : x -> 6 y -> 7
+[ 07:06:32.200 ]  Choose : x -> 2 y -> 4
+[ 07:06:32.202 ]  Choose : x -> 2 y -> 5
+[ 07:06:32.203 ]  Choose : x -> 2 y -> 6
+[ 07:06:32.205 ]  Choose : x -> 2 y -> 7
+[ 07:06:32.207 ]  Choose : x -> 0 y -> 2
+[ 07:06:32.209 ]  Choose : x -> 0 y -> 3
+[ 07:06:32.210 ]  Choose : x -> 0 y -> 4
+[ 07:06:32.211 ]  Choose : x -> 3 y -> 0
+[ 07:06:32.212 ]  Choose : x -> 3 y -> 1
+[ 07:06:32.213 ]  Choose : x -> 3 y -> 2
+[ 07:06:32.214 ] Choose x -> 5 y -> 5
+
+[ 07:06:32.214 ] Choose x -> 6 y -> 6
+
+[ 07:06:32.215 ]  Choose : x -> 6 y -> 6
+[ 07:06:32.215 ]  Choose : x -> 6 y -> 7
+[ 07:06:32.216 ]  Choose : x -> 0 y -> 6
+[ 07:06:32.216 ]  Choose : x -> 0 y -> 7
+[ 07:06:32.217 ] Choose x -> 5 y -> 5
+
+[ 07:06:32.217 ] Choose x -> 5 y -> 5
+
+[ 07:06:32.218 ]  Choose : x -> 7 y -> 9
+[ 07:06:32.218 ] Choose x -> 9 y -> 9
+
+[ 07:06:35.008 ]    Shooting to : x -> 0 y -> 0
+[ 07:06:35.009 ]    Shooting to : x -> 0 y -> 1
+[ 07:06:36.392 ]    Shooting to : x -> 1 y -> 1
+[ 07:06:36.393 ]    Shooting to : x -> 2 y -> 4
+[ 07:06:36.395 ]    Shooting to : x -> 6 y -> 2
+[ 07:06:37.050 ]    Shooting to : x -> 2 y -> 2
+[ 07:06:37.051 ]    Shooting to : x -> 9 y -> 4
+[ 07:06:37.659 ]    Shooting to : x -> 3 y -> 3
+[ 07:06:37.660 ]    Shooting to : x -> 6 y -> 5
+[ 07:06:37.661 ]    Shooting to : x -> 5 y -> 4
+[ 07:06:38.370 ]    Shooting to : x -> 4 y -> 4
+[ 07:06:38.371 ]    Shooting to : x -> 4 y -> 8
+[ 07:06:39 ]    Shooting to : x -> 5 y -> 5
+[ 07:06:39.002 ]    Shooting to : x -> 6 y -> 7
+[ 07:06:39.004 ]    Shooting to : x -> 2 y -> 9
+[ 07:06:39.681 ]    Shooting to : x -> 6 y -> 6
+[ 07:06:41.355 ]    Shooting to : x -> 6 y -> 7
+[ 07:06:42.005 ]    Shooting to : x -> 6 y -> 5
+[ 07:06:42.007 ]    Shooting to : x -> 1 y -> 2
+[ 07:06:42.008 ]    Shooting to : x -> 0 y -> 3
+[ 07:06:42.854 ]    Shooting to : x -> 6 y -> 8
+[ 07:06:42.855 ]    Shooting to : x -> 5 y -> 3
+[ 07:06:44.473 ]    Shooting to : x -> 7 y -> 7
+[ 07:06:44.475 ]    Shooting to : x -> 9 y -> 0
+[ 07:06:45.670 ]    Shooting to : x -> 8 y -> 8
+[ 07:06:45.672 ]    Shooting to : x -> 0 y -> 6
+[ 07:06:46.273 ]    Shooting to : x -> 9 y -> 9
+[ 07:06:46.274 ]    Shooting to : x -> 3 y -> 2
+[ 07:06:47.672 ]    Shooting to : x -> 0 y -> 9
+[ 07:06:47.674 ]    Shooting to : x -> 7 y -> 6
+[ 07:06:48.207 ]    Shooting to : x -> 1 y -> 8
+[ 07:06:48.208 ]    Shooting to : x -> 6 y -> 3
+[ 07:06:48.880 ]    Shooting to : x -> 2 y -> 7
+[ 07:06:49.834 ]    Shooting to : x -> 2 y -> 6
+[ 07:06:50.646 ]    Shooting to : x -> 2 y -> 5
+[ 07:06:51.717 ]    Shooting to : x -> 2 y -> 4
+[ 07:06:53.042 ]    Shooting to : x -> 2 y -> 3
+[ 07:06:53.044 ]    Shooting to : x -> 3 y -> 5
+[ 07:06:54.693 ]    Shooting to : x -> 3 y -> 6
+[ 07:06:54.694 ]    Shooting to : x -> 9 y -> 7
+[ 07:06:56.368 ]    Shooting to : x -> 4 y -> 5
+[ 07:06:56.370 ]    Shooting to : x -> 3 y -> 7
+[ 07:06:57.153 ]    Shooting to : x -> 5 y -> 4
+[ 07:06:58.341 ]    Shooting to : x -> 5 y -> 3
+[ 07:06:58.342 ]    Shooting to : x -> 8 y -> 5
+[ 07:06:59.541 ]    Shooting to : x -> 6 y -> 4
+[ 07:07:00.142 ]    Shooting to : x -> 7 y -> 4
+[ 07:07:00.143 ]    Shooting to : x -> 5 y -> 9
+[ 07:07:01.158 ]    Shooting to : x -> 6 y -> 3
+[ 07:07:01.160 ]    Shooting to : x -> 4 y -> 5
+[ 07:07:01.162 ]    Shooting to : x -> 8 y -> 9
+[ 07:07:01.743 ]    Shooting to : x -> 7 y -> 2
+[ 07:07:01.745 ]    Shooting to : x -> 8 y -> 4
+[ 07:07:02.604 ]    Shooting to : x -> 8 y -> 1
+[ 07:07:02.606 ]    Shooting to : x -> 3 y -> 1
+[ 07:07:03.239 ]    Shooting to : x -> 9 y -> 0
+[ 07:07:03.239 ]    Shooting to : x -> 2 y -> 1
+[ 07:07:05.116 ]    Shooting to : x -> 4 y -> 0
+[ 07:07:05.118 ]    Shooting to : x -> 2 y -> 6
+[ 07:07:05.119 ]    Shooting to : x -> 2 y -> 5
+[ 07:07:05.120 ]    Shooting to : x -> 4 y -> 6
+[ 07:07:05.121 ]    Shooting to : x -> 4 y -> 2
+[ 07:07:05.639 ]    Shooting to : x -> 4 y -> 1
+[ 07:07:05.640 ]    Shooting to : x -> 1 y -> 4
+[ 07:07:06.482 ]    Shooting to : x -> 4 y -> 2
+[ 07:07:06.483 ]    Shooting to : x -> 0 y -> 2
+[ 07:07:08.269 ]    Shooting to : x -> 4 y -> 6
+[ 07:07:08.270 ]    Shooting to : x -> 2 y -> 0
+[ 07:07:08.271 ]    Shooting to : x -> 8 y -> 0
+[ 07:07:08.272 ]    Shooting to : x -> 7 y -> 4
+[ 07:07:08.819 ]    Shooting to : x -> 4 y -> 7
+[ 07:07:08.820 ]    Shooting to : x -> 1 y -> 8
+[ 07:07:09.357 ]    Shooting to : x -> 4 y -> 8
+[ 07:07:09.358 ]    Shooting to : x -> 3 y -> 9
+[ 07:07:10.049 ]    Shooting to : x -> 4 y -> 9
+[ 07:07:10.050 ]    Shooting to : x -> 9 y -> 5
+[ 07:07:11.288 ]    Shooting to : x -> 0 y -> 5
+[ 07:07:11.289 ]    Shooting to : x -> 0 y -> 8
+[ 07:07:13.856 ]    Shooting to : x -> 8 y -> 5
+[ 07:07:13.858 ]    Shooting to : x -> 2 y -> 8
+[ 07:07:15.497 ]    Shooting to : x -> 9 y -> 5
+[ 07:07:15.498 ]    Shooting to : x -> 0 y -> 9
+[ 07:07:16.350 ]    Shooting to : x -> 9 y -> 3
+[ 07:07:16.352 ]    Shooting to : x -> 0 y -> 5
+[ 07:07:16.353 ]    Shooting to : x -> 1 y -> 3
+[ 07:07:17.065 ]    Shooting to : x -> 9 y -> 2
+[ 07:07:17.066 ]    Shooting to : x -> 7 y -> 9
+[ 07:07:18 ]    Shooting to : x -> 6 y -> 1
+[ 07:07:18.002 ]    Shooting to : x -> 4 y -> 4
+[ 07:07:18.003 ]    Shooting to : x -> 7 y -> 5
+[ 07:07:18.632 ]    Shooting to : x -> 5 y -> 1
+[ 07:07:18.632 ]    Shooting to : x -> 9 y -> 9
+[ 07:07:19.876 ]    Shooting to : x -> 2 y -> 0
+[ 07:07:19.878 ]    Shooting to : x -> 1 y -> 6
+[ 07:07:20.447 ]    Shooting to : x -> 2 y -> 1
+[ 07:07:20.447 ]    Shooting to : x -> 1 y -> 7
+[ 07:07:21.190 ]    Shooting to : x -> 0 y -> 2
+[ 07:07:21.823 ]    Shooting to : x -> 0 y -> 3
+[ 07:07:22.510 ]    Shooting to : x -> 0 y -> 4
+[ 07:07:23.842 ]    Shooting to : x -> 0 y -> 1
+[ 07:07:23.844 ]    Shooting to : x -> 1 y -> 5
+[ 07:07:24.816 ]    Shooting to : x -> 0 y -> 6
+[ 07:07:25.498 ]    Shooting to : x -> 0 y -> 7
+[ 07:07:26.352 ]    Shooting to : x -> 0 y -> 8
+[ 07:07:26.354 ]    Shooting to : x -> 9 y -> 1
+[ 07:07:27.701 ]    Shooting to : x -> 2 y -> 9
+[ 07:07:27.702 ]    Shooting to : x -> 6 y -> 4
+[ 07:07:27.703 ]    Shooting to : x -> 9 y -> 3
+[ 07:07:29.468 ]    Shooting to : x -> 1 y -> 9
+[ 07:07:29.469 ]    Shooting to : x -> 3 y -> 6
+[ 07:07:30.147 ]    Shooting to : x -> 3 y -> 9
+[ 07:07:30.149 ]    Shooting to : x -> 2 y -> 2
+[ 07:07:30.838 ]    Shooting to : x -> 5 y -> 9
+[ 07:07:31.568 ]    Shooting to : x -> 6 y -> 9
+[ 07:07:31.570 ]    Shooting to : x -> 4 y -> 3
+[ 07:07:33.609 ]    Shooting to : x -> 7 y -> 9
+[ 07:07:34.236 ]    Shooting to : x -> 8 y -> 9
+[ 07:07:34.237 ]    Shooting to : x -> 1 y -> 9
+[ 07:07:35.155 ]    Shooting to : x -> 9 y -> 7
+[ 07:07:35.155 ]    Shooting to : x -> 7 y -> 1
+[ 07:07:35.665 ]    Shooting to : x -> 9 y -> 6
+[ 07:07:35.666 ]    Shooting to : x -> 6 y -> 1
+[ 07:07:35.668 ]    Shooting to : x -> 5 y -> 7
+[ 07:07:36.479 ]    Shooting to : x -> 9 y -> 8
+[ 07:07:36.480 ]    Shooting to : x -> 7 y -> 8
+[ 07:07:37.899 ]    Shooting to : x -> 8 y -> 7
+[ 07:07:37.901 ]    Shooting to : x -> 7 y -> 2
+[ 07:07:38.350 ]    Shooting to : x -> 8 y -> 6
+[ 07:07:38.351 ]    Shooting to : x -> 7 y -> 0
+[ 07:07:39.172 ]    Shooting to : x -> 8 y -> 4
+[ 07:07:39.174 ]    Shooting to : x -> 9 y -> 2
+[ 07:07:39.769 ]    Shooting to : x -> 8 y -> 3
+[ 07:07:39.770 ]    Shooting to : x -> 3 y -> 0
+[ 07:07:40.215 ]    Shooting to : x -> 8 y -> 2
+[ 07:07:40.216 ]    Shooting to : x -> 9 y -> 6
+[ 07:07:40.831 ]    Shooting to : x -> 9 y -> 4
+[ 07:07:41.477 ]    Shooting to : x -> 9 y -> 1
+[ 07:07:41.478 ]    Shooting to : x -> 2 y -> 3
+[ 07:07:42.108 ]    Shooting to : x -> 8 y -> 0
+[ 07:07:42.110 ]    Shooting to : x -> 4 y -> 1
+[ 07:07:42.538 ]    Shooting to : x -> 7 y -> 0
+[ 07:07:42.539 ]    Shooting to : x -> 8 y -> 2
+[ 07:07:44.154 ]    Shooting to : x -> 6 y -> 0
+[ 07:07:44.155 ]    Shooting to : x -> 6 y -> 9
+[ 07:07:44.806 ]    Shooting to : x -> 5 y -> 0
+[ 07:07:45.731 ]    Shooting to : x -> 3 y -> 0
+[ 07:07:46.754 ]    Shooting to : x -> 1 y -> 0
+[ 07:07:46.755 ]    Shooting to : x -> 5 y -> 1
+[ 07:07:47.750 ]    Shooting to : x -> 3 y -> 1
+[ 07:07:48.895 ]    Shooting to : x -> 3 y -> 2
+[ 07:10:18.799 ] Starting Scene In Custom Mod
+[ 07:10:20.571 ]  Choose : x -> 0 y -> 0
+[ 07:10:22.543 ]  Choose : x -> 2 y -> 2
+[ 07:10:23.656 ]  Choose : x -> 4 y -> 4
+[ 07:10:24.779 ]  Choose : x -> 6 y -> 6
+[ 07:10:25.805 ]  Choose : x -> 8 y -> 8
+[ 07:10:25.805 ]  Choose : x -> 8 y -> 9
+[ 07:10:27.372 ]  Choose : x -> 9 y -> 0
+[ 07:10:27.374 ]  Choose : x -> 9 y -> 1
+[ 07:10:28.663 ]  Choose : x -> 7 y -> 2
+[ 07:10:28.665 ]  Choose : x -> 7 y -> 3
+[ 07:10:31.488 ]  Choose : x -> 3 y -> 6
+[ 07:10:31.490 ]  Choose : x -> 3 y -> 7
+[ 07:10:31.492 ]  Choose : x -> 3 y -> 8
+[ 07:10:33.038 ]  Choose : x -> 1 y -> 6
+[ 07:10:33.040 ]  Choose : x -> 1 y -> 7
+[ 07:10:33.042 ]  Choose : x -> 1 y -> 8
+[ 07:10:38.274 ] Choose x -> 4 y -> 4
+
+[ 07:10:38.275 ] Choose x -> 5 y -> 5
+
+[ 07:10:38.277 ] Choose x -> 6 y -> 6
+
+[ 07:10:38.277 ] Choose x -> 7 y -> 7
+
+[ 07:10:38.278 ] Choose x -> 3 y -> 3
+
+[ 07:10:38.279 ] Choose x -> 4 y -> 4
+
+[ 07:10:38.279 ] Choose x -> 5 y -> 5
+
+[ 07:10:38.280 ] Choose x -> 6 y -> 6
+
+[ 07:10:38.280 ]  Choose : x -> 1 y -> 7
+[ 07:10:38.281 ]  Choose : x -> 1 y -> 8
+[ 07:10:38.281 ]  Choose : x -> 1 y -> 9
+[ 07:10:38.282 ] Choose x -> 4 y -> 4
+
+[ 07:10:38.282 ] Choose x -> 5 y -> 5
+
+[ 07:10:38.283 ] Choose x -> 6 y -> 6
+
+[ 07:10:38.283 ] Choose x -> 0 y -> 0
+
+[ 07:10:38.283 ] Choose x -> 1 y -> 1
+
+[ 07:10:38.284 ]  Choose : x -> 9 y -> 1
+[ 07:10:38.285 ]  Choose : x -> 9 y -> 2
+[ 07:10:38.285 ]  Choose : x -> 8 y -> 7
+[ 07:10:38.286 ]  Choose : x -> 8 y -> 8
+[ 07:10:38.286 ]  Choose : x -> 9 y -> 5
+[ 07:10:38.287 ] Choose x -> 3 y -> 3
+
+[ 07:10:38.287 ] Choose x -> 0 y -> 0
+
+[ 07:10:38.288 ]  Choose : x -> 6 y -> 8
+[ 07:10:39.623 ]    Shooting to : x -> 4 y -> 7
+[ 07:10:39.624 ]    Shooting to : x -> 5 y -> 4
+[ 07:10:40.664 ]    Shooting to : x -> 4 y -> 6
+[ 07:10:40.664 ]    Shooting to : x -> 2 y -> 2
+[ 07:10:40.666 ]    Shooting to : x -> 4 y -> 8
+[ 07:10:41.353 ]    Shooting to : x -> 4 y -> 5
+[ 07:10:41.355 ]    Shooting to : x -> 5 y -> 8
+[ 07:10:41.889 ]    Shooting to : x -> 4 y -> 4
+[ 07:10:41.890 ]    Shooting to : x -> 6 y -> 3
+[ 07:10:42.532 ]    Shooting to : x -> 4 y -> 3
+[ 07:10:43.198 ]    Shooting to : x -> 4 y -> 2
+[ 07:10:43.199 ]    Shooting to : x -> 8 y -> 6
+[ 07:10:44.154 ]    Shooting to : x -> 3 y -> 3
+[ 07:10:45.585 ]    Shooting to : x -> 2 y -> 3
+[ 07:10:45.587 ]    Shooting to : x -> 4 y -> 4
+[ 07:10:45.589 ]    Shooting to : x -> 5 y -> 0
+[ 07:10:45.589 ]    Shooting to : x -> 9 y -> 4
+[ 07:10:46.328 ]    Shooting to : x -> 5 y -> 3
+[ 07:10:47.136 ]    Shooting to : x -> 6 y -> 3
+[ 07:10:47.701 ]    Shooting to : x -> 7 y -> 3
+[ 07:10:47.703 ]    Shooting to : x -> 0 y -> 4
+[ 07:10:49.756 ]    Shooting to : x -> 0 y -> 0
+[ 07:10:50.338 ]    Shooting to : x -> 0 y -> 1
+[ 07:10:50.339 ]    Shooting to : x -> 0 y -> 5
+[ 07:10:51.289 ]    Shooting to : x -> 1 y -> 0
+[ 07:10:51.291 ]    Shooting to : x -> 6 y -> 1
+[ 07:10:52.575 ]    Shooting to : x -> 0 y -> 2
+[ 07:10:52.576 ]    Shooting to : x -> 6 y -> 2
+[ 07:10:53.223 ]    Shooting to : x -> 0 y -> 3
+[ 07:10:53.224 ]    Shooting to : x -> 9 y -> 7
+[ 07:10:53.788 ]    Shooting to : x -> 0 y -> 4
+[ 07:10:54.716 ]    Shooting to : x -> 0 y -> 5
+[ 07:10:54.718 ]    Shooting to : x -> 7 y -> 6
+[ 07:10:55.997 ]    Shooting to : x -> 1 y -> 4
+[ 07:10:57.923 ]    Shooting to : x -> 1 y -> 2
+[ 07:10:57.925 ]    Shooting to : x -> 8 y -> 0
+[ 07:10:59.546 ]    Shooting to : x -> 1 y -> 1
+[ 07:10:59.547 ]    Shooting to : x -> 2 y -> 9
+[ 07:11:00.713 ]    Shooting to : x -> 4 y -> 0
+[ 07:11:00.714 ]    Shooting to : x -> 8 y -> 2
+[ 07:11:01.567 ]    Shooting to : x -> 5 y -> 0
+[ 07:11:01.568 ]    Shooting to : x -> 8 y -> 5
+[ 07:11:02.274 ]    Shooting to : x -> 7 y -> 0
+[ 07:11:02.275 ]    Shooting to : x -> 3 y -> 7
+[ 07:11:02.276 ]    Shooting to : x -> 3 y -> 3
+[ 07:11:02.982 ]    Shooting to : x -> 9 y -> 0
+[ 07:11:02.983 ]    Shooting to : x -> 2 y -> 1
+[ 07:11:03.834 ]    Shooting to : x -> 9 y -> 2
+[ 07:11:04.711 ]    Shooting to : x -> 9 y -> 3
+[ 07:11:04.713 ]    Shooting to : x -> 3 y -> 6
+[ 07:11:04.714 ]    Shooting to : x -> 9 y -> 5
+[ 07:11:05.409 ]    Shooting to : x -> 8 y -> 2
+[ 07:11:05.410 ]    Shooting to : x -> 7 y -> 1
+[ 07:11:06.281 ]    Shooting to : x -> 9 y -> 1
+[ 07:11:08.450 ]    Shooting to : x -> 9 y -> 9
+[ 07:11:08.451 ]    Shooting to : x -> 2 y -> 5
+[ 07:11:08.909 ]    Shooting to : x -> 9 y -> 8
+[ 07:11:08.909 ]    Shooting to : x -> 7 y -> 5
+[ 07:11:09.333 ]    Shooting to : x -> 9 y -> 7
+[ 07:11:09.334 ]    Shooting to : x -> 9 y -> 1
+[ 07:11:09.335 ]    Shooting to : x -> 5 y -> 9
+[ 07:11:09.837 ]    Shooting to : x -> 9 y -> 6
+[ 07:11:09.838 ]    Shooting to : x -> 0 y -> 9
+[ 07:11:10.604 ]    Shooting to : x -> 9 y -> 5
+[ 07:11:11.671 ]    Shooting to : x -> 8 y -> 5
+[ 07:11:11.672 ]    Shooting to : x -> 7 y -> 0
+[ 07:11:11.672 ]    Shooting to : x -> 5 y -> 7
+[ 07:11:12.880 ]    Shooting to : x -> 9 y -> 4
+[ 07:11:12.881 ]    Shooting to : x -> 4 y -> 2
+[ 07:11:14.011 ]    Shooting to : x -> 7 y -> 6
+[ 07:11:14.013 ]    Shooting to : x -> 7 y -> 4
+[ 07:11:14.541 ]    Shooting to : x -> 6 y -> 8
+[ 07:11:15.416 ]    Shooting to : x -> 6 y -> 7
+[ 07:11:15.418 ]    Shooting to : x -> 2 y -> 0
+[ 07:11:16.012 ]    Shooting to : x -> 6 y -> 9
+[ 07:11:16.012 ]    Shooting to : x -> 0 y -> 1
+[ 07:11:16.713 ]    Shooting to : x -> 5 y -> 8
+[ 07:11:16.714 ]    Shooting to : x -> 1 y -> 5
+[ 07:11:17.323 ]    Shooting to : x -> 7 y -> 8
+[ 07:11:17.325 ]    Shooting to : x -> 0 y -> 2
+[ 07:11:18.641 ]    Shooting to : x -> 1 y -> 8
+[ 07:11:19.561 ]    Shooting to : x -> 1 y -> 7
+[ 07:11:20.583 ]    Shooting to : x -> 1 y -> 6
+[ 07:11:20.585 ]    Shooting to : x -> 3 y -> 2
+[ 07:11:21.350 ]    Shooting to : x -> 1 y -> 9
+[ 07:11:22.456 ]    Shooting to : x -> 0 y -> 9
+[ 07:11:22.458 ]    Shooting to : x -> 8 y -> 1
+[ 07:11:23.868 ]    Shooting to : x -> 3 y -> 6
+[ 07:11:23.869 ]    Shooting to : x -> 0 y -> 6
+[ 07:11:24.556 ]    Shooting to : x -> 3 y -> 7
+[ 07:11:24.558 ]    Shooting to : x -> 7 y -> 9
+[ 07:11:25.387 ]    Shooting to : x -> 5 y -> 5
+[ 07:11:25.389 ]    Shooting to : x -> 9 y -> 6
+[ 07:11:26.060 ]    Shooting to : x -> 6 y -> 5
+[ 07:11:26.062 ]    Shooting to : x -> 5 y -> 6
+[ 07:11:27.035 ]    Shooting to : x -> 6 y -> 1
+[ 07:11:28.146 ]    Shooting to : x -> 5 y -> 1
+[ 07:11:28.968 ]    Shooting to : x -> 7 y -> 1
+[ 07:11:28.969 ]    Shooting to : x -> 5 y -> 5
+[ 07:11:29.868 ]    Shooting to : x -> 4 y -> 1
+[ 07:11:30.554 ]    Shooting to : x -> 3 y -> 1
+[ 07:11:30.556 ]    Shooting to : x -> 0 y -> 7
+[ 07:11:32.351 ]    Shooting to : x -> 2 y -> 6
+[ 07:11:32.352 ]    Shooting to : x -> 5 y -> 3
+[ 07:11:33.192 ]    Shooting to : x -> 2 y -> 5
+[ 07:11:33.193 ]    Shooting to : x -> 6 y -> 8
+[ 07:11:34.014 ]    Shooting to : x -> 2 y -> 7
+[ 07:11:34.015 ]    Shooting to : x -> 8 y -> 7
+[ 07:11:34.799 ]    Shooting to : x -> 4 y -> 9
+[ 07:11:34.800 ]    Shooting to : x -> 6 y -> 6
+[ 07:11:34.802 ]    Shooting to : x -> 8 y -> 4
+[ 07:11:35.431 ]    Shooting to : x -> 3 y -> 9
+[ 07:11:35.433 ]    Shooting to : x -> 1 y -> 2
+[ 07:11:36.158 ]    Shooting to : x -> 3 y -> 8
+[ 07:11:38.047 ]    Shooting to : x -> 4 y -> 8
+[ 07:11:38.048 ]    Shooting to : x -> 1 y -> 3
+[ 07:11:41.530 ]    Shooting to : x -> 3 y -> 5
+[ 07:11:41.531 ]    Shooting to : x -> 3 y -> 8
+[ 07:11:41.532 ]    Shooting to : x -> 3 y -> 1
+[ 07:11:43.001 ]    Shooting to : x -> 7 y -> 5
+[ 07:11:43.002 ]    Shooting to : x -> 1 y -> 6
+[ 07:11:43.003 ]    Shooting to : x -> 6 y -> 4
+[ 07:11:47.012 ]    Shooting to : x -> 2 y -> 1
+[ 07:11:47.013 ]    Shooting to : x -> 6 y -> 0
+[ 07:11:47.014 ]    Shooting to : x -> 0 y -> 8
+[ 07:11:47.988 ]    Shooting to : x -> 2 y -> 0
+[ 07:11:47.989 ]    Shooting to : x -> 1 y -> 1
+[ 07:11:50.395 ]    Shooting to : x -> 8 y -> 9
+[ 07:11:50.397 ]    Shooting to : x -> 3 y -> 9
+[ 07:11:51.750 ]    Shooting to : x -> 8 y -> 7
+[ 07:11:52.586 ]    Shooting to : x -> 8 y -> 8
+[ 07:11:52.588 ]  You Win 
+[ 07:17:09.492 ] Starting Scene In Custom Mod
+[ 07:17:30.589 ] Closing Custom Mode
+[ 07:17:30.590 ] ----------------------
+[ 07:17:41.415 ] Starting Scene In Custom Mod
+[ 07:17:51.695 ] Closing Custom Mode
+[ 07:17:51.697 ] ----------------------
+[ 07:22:02.170 ] Starting Scene In Custom Mod
+[ 07:22:03.371 ]  Choose : x -> 3 y -> 5
+[ 07:22:04.642 ] Closing Custom Mode
+[ 07:22:04.643 ] ----------------------
+[ 07:23:48.068 ] Starting Scene In Custom Mod
+[ 07:23:50.383 ]  Choose : x -> 0 y -> 3
+[ 07:23:51.606 ] Closing Custom Mode
+[ 07:23:51.607 ] ----------------------
